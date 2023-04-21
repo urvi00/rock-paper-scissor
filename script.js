@@ -51,6 +51,6 @@ function game() {
         alert(`You lose this game! Your score is ${userScore}, Computer score is ${computerScore}`);
     }
     else {
-        alert(`Thsi game is tied! Your score is ${userScore}, Computer score is ${computerScore}`);
+        alert(`This game is tied! Your score is ${userScore}, Computer score is ${computerScore}`);
     }
 }
